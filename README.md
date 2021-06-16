@@ -3,11 +3,8 @@
 ### Session Commands
 ```
 S: List sessions
- 
 $: Rename current session
- 
 D: Detach current session
- 
 ?: Display Help page in tmux.
 ```
 ### Window Commands
