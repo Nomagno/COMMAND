@@ -1,5 +1,5 @@
 # My Personal Command Cheat Sheet
-## A Ctrl+B Cheat Sheet
+## Tmux Cheat Sheet
 ### Session Commands
 S: List sessions.
 $: Rename current session.
