@@ -2,9 +2,12 @@
 ## Tmux Cheat Sheet
 ### Session Commands
 ``
-S: List sessions.
-$: Rename current session.
-D: Detach current session.
+S: List sessions
+ 
+$: Rename current session
+ 
+D: Detach current session
+ 
 Ctrl+B, and then ?: Display Help page in tmux.
 ``
 ### Window Commands
