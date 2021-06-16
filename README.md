@@ -8,7 +8,7 @@ $: Rename current session
  
 D: Detach current session
  
-Ctrl+B, and then ?: Display Help page in tmux.
+?: Display Help page in tmux.
 ```
 ### Window Commands
 ```
